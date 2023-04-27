@@ -58,7 +58,7 @@ def Download_Video(Link,update, context):
        print('Download Links Generated \n\n\n'+str(req)+'\n\n\n')
     except:
         print('Download Links Generate Error !!!')
-        status_msg.edit_text('⁉️ TikTok Downloader API Error !!! Report To Developer : @SL_Developers')
+        status_msg.edit_text('⁉️ TikTok Downloader API Error !!! Report To Developer : @than0zs')
         status_sticker.delete()
         return
     
@@ -66,8 +66,11 @@ def Download_Video(Link,update, context):
 
 ✅ Successfully Downloaded {} Video 🔰
 
-🔰 Powerd by : [🏖 TikTok Download API 🏖](https://github.com/Single-Developers/API/blob/main/tiktok/Note.md)
-[🔥 Single Developers </> ](https://t.me/SingleDevelopers) Corporation ©️
+🔰 Powered by : [@than0zs , @botfather]
+💾 SC by      : [https://github.com/Single-Developers]
+
+
+
 
 ◇───────────────◇"""
     
